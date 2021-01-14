@@ -122,7 +122,7 @@ STATIC_URL = '/static/'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_POR = 587
-EMAIL_HOST_USER = 'muskan@stones2milestones.com'
-EMAIL_HOST_PASSWORD = 'intern@2021'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
